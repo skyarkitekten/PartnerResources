@@ -1,8 +1,19 @@
+---
+layout: default
+title: App Modernization
+parent: Power Platform
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for App Modernization
+
+## Keeping Up
+
+* [Dynamics 365 and Microsoft Power Platform release plans](https://docs.microsoft.com/en-us/dynamics365/release-plans/) (Self-Paced) (On-going)
 
 ## Fundamentals
 
-* [BRK1090: Teams + Power Apps: Three ways you can deeply customize Teams with low-code](https://myignite.techcommunity.microsoft.com/sessions/84286?source=sessions) (Self-Paced) (45 Minutes)
+* [Microsoft Power Platform: Learning Resources](https://powerapps.microsoft.com/en-us/blog/microsoft-powerapps-learning-resources) (Self-Paced)
 * [Course MB-901T00-A: Microsoft Dynamics 365 Fundamentals](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-901t00) (In-person Instructor Led) (2 Days)
 
 ## Associate
@@ -16,6 +27,7 @@
 ## Expert
 
 * [Course MB-400T00-A: Microsoft Power Apps + Dynamics 365 Developer](https://docs.microsoft.com/en-us/learn/certifications/courses/mb-400t00) (In-person Instructor Led) (3 Days)
+* * [Low Code Application Development advanced specialization](https://partner.microsoft.com/en-us/training/assets/collection/low-code-application-development-advanced-specialization#/) (Self-Paced)
 
 ## Community Resources
 
@@ -26,7 +38,9 @@
 ## Certifications
 
 * [PL-900: Microsoft Power Platform Fundamentals Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/pl-900-microsoft-power-platform-fundamentals-1#/) (Self-Paced) (6 Hours)
-* [Exam MB-200:  Microsoft Dynamics 365 Power Platform + Dynamics Core](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-200) (Self-Paced) (3 Hours)
-* [Exam MB-400: Microsoft Dynamics 365 Power Apps + Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-400) (Self-Paced) (2 Hours)
+* [Exam PL-200: Microsoft Power Platform Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-200) (Self-Paced) (6 Hours)
+* [Exam PL-400: Microsoft Power Platform Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/pl-400) (Self-Paced) (6 Hours)
+* Retired [Exam MB-200:  Microsoft Dynamics 365 Power Platform + Dynamics Core](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-200) (Self-Paced) (3 Hours)
+* Retired [Exam MB-400: Microsoft Dynamics 365 Power Apps + Developer](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-400) (Self-Paced) (2 Hours)
 * [MB-200: Microsoft Power Platform + Dynamics 365 Core Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-200-microsoft-power-platform-plus-dynamics-365-core#/) (Self-Paced) (10 Hours)
 * [MB-210: Microsoft Dynamics 365 Sales Exam Prep (VILT)](https://partner.microsoft.com/en-us/training/assets/collection/mb-210-microsoft-dynamics-365-sales#/) (Self-Paced) (3 Hours)

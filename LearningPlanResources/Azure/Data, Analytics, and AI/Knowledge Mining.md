@@ -1,3 +1,10 @@
+---
+layout: default
+title: Knowledge Mining
+parent: Data Analytics and AI
+grand_parent: Azure
+---
+
 # Learning Plan Resources for Knowledge Mining
 
 ## Fundamentals
@@ -15,8 +22,7 @@
 
 ## Expert
 
-* [Knowledge Mining Bootcamp](https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/) (In-person Instructor Led) (2 Days)
-* [Learn AI Bootcamp](https://github.com/Azure/LearnAI-Bootcamp) (In-person Instructor Led) (2 Days)
+* [Knowledge Mining Bootcamp](https://github.com/MicrosoftLearning/LearnAI-KnowledgeMiningBootcamp) (In-person Instructor Led) (2 Days)
 
 ## Community Resources
 

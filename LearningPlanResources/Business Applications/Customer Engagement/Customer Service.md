@@ -1,3 +1,10 @@
+---
+layout: default
+title: Customer Service
+parent: Customer Engagement
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Dynamics 365 Customer Service
 
 Dynamics 365 Customer Service is a Microsoft business application that empowers companies to deliver end-to-end, self, assisted and onsite service across multiple channels.  The role of customer service continues to evolve as organizations sell services around their products and provide break-fix support for their customers.  This Customer Service application enables organizations to provide these personalized support services with a rich set of capabilities.
@@ -57,6 +64,12 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 
 * [Monitor the Dynamics 365 Customer Service Community](https://community.dynamics.com/365/customerservice)
 * [Monitor the Dynamics 365 Blog](https://cloudblogs.microsoft.com/dynamics365/)
-* [Join Dynamics Fortnight Fridays](http://dff.azurewebsites.net/)
+* [Join Dynamics Fortnight Fridays](https://dff.azurewebsites.net/)
 * [Join WW Business Applications Partner Community](https://www.microsoftpartnercommunity.com/t5/Business-Applications/ct-p/BizApps)
 * [Monitor the Dynamics 365 Customer Engagement in the Field](https://community.dynamics.com/crm/b/crminthefield)
+
+## Practice Maturity Model
+
+Ordered by entry level features, advanced features, and innovative features.
+
+   ![Customer Service Maturity Model](assets/customer-service-maturity-model.png)

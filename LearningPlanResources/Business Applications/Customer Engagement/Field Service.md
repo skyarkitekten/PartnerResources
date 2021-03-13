@@ -1,3 +1,10 @@
+---
+layout: default
+title: Field Service
+parent: Customer Engagement
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Dynamics 365 Field Service
 
 Dynamics 365 Field Service is a Microsoft business application helps organizations deliver onsite service to customer locations. The application combines workflow automation, scheduling algorithms, and mobility to set mobile workers up for success when they're onsite with customers fixing issues.  Field Services ensures the right person, with the right skills and parts, shows up at the right place and right time to improve first-time fix rate, customer satisfaction, and resource productivity. 
@@ -80,3 +87,9 @@ TIP:  Open resources below in a separate browser tab to remain on this Learning 
 * [Azure IoT Device Catalog](https://catalog.azureiotsolutions.com/alldevices)
 * [Azure IoT Documentation](https://docs.microsoft.com/en-us/azure/iot-fundamentals/)
 * [Monitor the Dynamics 365 Customer Engagement in the Field](https://community.dynamics.com/crm/b/crminthefield)
+
+## Practice Maturity Model
+
+Ordered by entry level features, advanced features, and innovative features.
+
+   ![Field Service Maturity Model](assets/field-service-maturity-model.png)

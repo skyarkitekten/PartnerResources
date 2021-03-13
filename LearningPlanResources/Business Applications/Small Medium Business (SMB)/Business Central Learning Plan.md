@@ -1,3 +1,10 @@
+---
+layout: default
+title: Business Central
+parent: Small Medium Business (SMB)
+grand_parent: Business Applications
+---
+
 # Learning Plan Resources for Business Central
 
 ## Fundamentals 
@@ -12,14 +19,14 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Follow Business Central on Twitter](https://twitter.com/MSDYN365BC) (Self-Paced) (1 Minute)
 * [Review Dynamics 365 Business Central Application Ideas](https://experience.dynamics.com/ideas/categories/?forum=e288ef32-82ed-e611-8101-5065f38b21f1&forumName=Dynamics%20365%20Business%20Central) (Self-Paced) (1 Minute)
 * [Review Dynamics 365 Business Central System Requirements](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/deployment/system-requirement-business-central) (Self-Paced) (1 Minute)
-* [Review Dynamics 365 Business Central Tech Intensity Workshop](https://aka.ms/bizcentral) (Self-Paced) (4 Hours)
+* [Review Dynamics 365 Business Central Tech Intensity Workshop](https://aka.ms/bizcentral/workshop) (Self-Paced) (4 Hours)
 * [Review Ready to Go Documentation](https://aka.ms/readytogo) (Self-Paced) (1 Minute)
 * [Subscribe to Business Central YouTube Playlist](https://www.youtube.com/playlist?list=PLcakwueIHoT-wVFPKUtmxlqcG1kJ0oqq4) (Self-Paced) (1 Minute)
 * [Transition SMB Customers to the Cloud](https://partner.microsoft.com/en-us/marketing/business-applications-smb?wt.mc_id=AID2420183_EML_6301784#tab-content-1) (Self-Paced) (5 Minutes)
 * [Watch Dynamics 365 Business Central Overview Demos](https://dynamics.microsoft.com/en-us/business-central/demo/) (Self-Paced) (9 Minutes)
 * [Read The Business Owner’s Guide to Replacing Accounting Software](https://info.microsoft.com/dynamics365-replacing-acct-software.html) (Self-Paced) (1 Hour)
 
-## Associate (navigation tip)
+## Associate
 
 Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Reconcile bank accounts in Microsoft Dynamics 365 Business Central](https://docs.microsoft.com/en-us/learn/paths/reconcile-bank-accounts-dynamics-365-business-central/) (Self-Paced) (1 Hour)
@@ -37,12 +44,21 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 ## Expert
 
 Navigation tip - to open each link, right-click on the URL | open in new tab
+* [Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800) (Self-Paced) (1 Minute)
 * [Deliver Consulting Services as a VAR](https://appsource.microsoft.com/en-us/marketplace/consulting-services?country=US&page=1&product=dynamics-365%3Bdynamics-365-business-central) (Self-Paced) (1 Minute)
 * [Build Add-On Apps for Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/readiness/readiness-add-on-apps) (Self-Paced) (2 Minutes)
 * [Build Connect Apps for Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/readiness/readiness-connect-apps) (Self-Paced) (2 Minutes)
 * [Build Embed Apps for Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/readiness/readiness-embed-apps) (Self-Paced) (2 Minutes)
 * [Developer Learning Catalog for Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/readiness/readiness-learning-developers) (Self-Paced) (17 Minutes)
 * [Extending Business Central](https://docs.microsoft.com/en-us/dynamics365/business-central/about-develop-extensions) (Self-Paced) (3 Minutes)
+* [CI/CD Business Central](https://freddysblog.com/category/ci-cd/) (Self-Paced) (3 Hours)
+* [Business Central Docker](https://freddysblog.com/category/docker/) (Self-Paced) (3 Hours)
+* [Creating Business Central Developer Sandbox](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-sandbox-overview) (Self-Paced) (3 Minutes)
+* [Creating Business Central Container Sandbox for ISV Development](https://docs.microsoft.com/en-us/dynamics365/business-central/dev-itpro/developer/devenv-get-started-container-sandbox) (Self-Paced) (3 Minutes)
+
+## Certifications
+
+* [Exam MB-800: Business Central Functional Consultant](https://docs.microsoft.com/en-us/learn/certifications/exams/mb-800) (Self-Paced) (2 Hours)
 
 ## Community Resources 
 
@@ -52,7 +68,7 @@ Navigation tip - to open each link, right-click on the URL | open in new tab
 * [Monitor Dynamics 365 Business Central Forum](https://community.dynamics.com/business/f/dynamics-365-business-central-forum) (Self-Paced) (1 Minute)
 * [Participate in Dynamics 365 Business Central User Group](https://www.navug.com/home) (Self-Paced) (1 Minute)
 * [Read Dynamics 365 Business Central Blogs](https://community.dynamics.com/business/b) (Self-Paced) (1 Minute)
-* [Bookmark Business Central Minor Update](http://aka.ms/bclastminorupdate) (Self-Paced) (1 Minute)
+* [Bookmark Business Central Minor Update](https://aka.ms/bclastminorupdate) (Self-Paced) (1 Minute)
 
 ## Events
 

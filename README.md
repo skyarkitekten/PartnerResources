@@ -1,3 +1,6 @@
+---
+nav_exclude: true
+---
 
 # What are Microsoft Partner Resources?
 
@@ -11,16 +14,16 @@ the rights to use your contribution. For details, visit https://cla.opensource.m
 
 ## Modifying a document on Github
 
-For infrequent or small updates, you can edit the file directly on GitHub.com without having installing additional tools and software.  Naturally, use whatever tools/editors you are most comfortable with.
+For infrequent or small updates, you can edit the file directly on GitHub.com without having installing additional tools and software.  Naturally, use whatever tools/editors you are most comfortable with. For a great explanation of markdown, watch this great video [Markdown Explained in Under 10 Minutes](https://www.youtube.com/watch?v=Y83zrODz-lk) by April Dunham.
 
 1. Make sure you have signed into GitHub.com with your GitHub account.
 2. Go to the page you want to edit and click the edit button near the top right:
 
-   ![Edit document](media/editdoc.png)
+   ![Edit document](assets/editdoc.png)
 
 3. A fork of the project will be created in your account for editing purposes. Files in GitHub are written and edited using Markdown language. For help on using Markdown, see [Mastering Markdown](https://guides.github.com/features/mastering-markdown/). Select the **Preview changes** tab to view your changes as you go.  The editor will look like this:
 
-   ![Edit document](media/editdoc2.png)
+   ![Edit document](assets/editdoc2.png)
 
 6. When you're finished making changes, go to the **Propose file change** section at the bottom of the page:
 
@@ -29,16 +32,16 @@ For infrequent or small updates, you can edit the file directly on GitHub.com wi
 
    When you're ready, click the green **Propose file change** button.
 
-      ![Edit document](media/savechanges.png)
+      ![Edit document](assets/savechanges.png)
 
 7. On the **Comparing changes** page that appears, click the green **Create pull request** button. A check will be performed and allow you to confirm the submission.
 
-      ![Edit document](media/pullrequest.png)
+      ![Edit document](assets/pullrequest.png)
 
-8. A member of the team will review and approve your request, or if there are any issues, respond with questions or comments.
+8. A member of the team will review and approve your request, or if there are any issues, will respond with questions or comments.
 
 When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
+a CLA and decorate the PR appropriately (e.g., status check, comment).  Simply follow the instructions
 provided by the bot. You will only need to do this once across all repos using our CLA.
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
@@ -55,7 +58,7 @@ see the [LICENSE](LICENSE) file, and grant you a license to any code in the repo
 Microsoft, Windows, Microsoft Azure and/or other Microsoft products and services referenced in the documentation
 may be either trademarks or registered trademarks of Microsoft in the United States and/or other countries.
 The licenses for this project do not grant you rights to use any Microsoft names, logos, or trademarks.
-Microsoft's general trademark guidelines can be found at http://go.microsoft.com/fwlink/?LinkID=254653.
+Microsoft's general trademark guidelines can be found at https://go.microsoft.com/fwlink/?LinkID=254653.
 
 Privacy information can be found at https://privacy.microsoft.com/en-us/
 
