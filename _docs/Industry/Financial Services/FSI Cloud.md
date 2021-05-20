@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Financial Services
-permalink: /industry/financial-services
+title: FSI Cloud
+permalink: /industry/financial-services/fsi-cloud
 tags:
  - industry
- - financial-services
+ - financial services
 ---
 
 # Learning Plan Resources for Microsoft Cloud for Financial Services (In Preview)
@@ -68,3 +68,4 @@ Additionally, some content may be marked with one or more icons:
 ## Community
 
 { Add links to community resources: blogs, forums, yammer channels, etc. }
+
